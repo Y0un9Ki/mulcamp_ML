@@ -10,7 +10,7 @@
 - 사용 환경 : 구글 colab, kaggle notebook
 
 ### 주요 사용한 라이브러리
-- NUmpy, Pandas, Scipy, Lgbmboost, Matplotlib
+- Numpy, Pandas, Scipy, Matplotlib
 - sklearn
   - SelectFromModel(중요한 피처 칼럼을 랜덤포레스트를 이용해서 뽑아준다.)
   - XGBClassifier
